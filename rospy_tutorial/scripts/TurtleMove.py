@@ -71,3 +71,6 @@ if __name__ == '__main__':
         x.move2goal()
     except rospy.ROSInterruptException:
         pass
+
+#test end repo
+    

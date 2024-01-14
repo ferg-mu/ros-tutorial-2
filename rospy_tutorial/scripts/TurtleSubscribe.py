@@ -35,3 +35,6 @@ if __name__== "__main__":
         ReadTurtlesim() 
     except: 
     	rospy.loginfo("End of the trip for Turtlesim") 
+
+#test last reps
+          
